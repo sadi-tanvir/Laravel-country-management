@@ -1,9 +1,9 @@
 # Laravel Developer Pre-Interview Test
-
 ## Instructions
-1. Fork this repository (or clone it if applicable) and complete the test within **4 hours**.
-2. Submit your solution as a GitHub repository link or a compressed file with your code.
-3. Ensure your code is well-structured, follows best practices, and includes comments where necessary.
+1. Fork this repository or clone and complete the test.
+2. Inside the `public` directory, you will find an `HTML` directory containing an HTML template. Use this template for building the frontend for CRUD operations and authentication.
+3. Submit your solution as a GitHub repository link or a compressed file with your code.
+4. Ensure your code is well-structured, follows best practices, and includes comments where necessary.
 
 ## Test Requirements
 
